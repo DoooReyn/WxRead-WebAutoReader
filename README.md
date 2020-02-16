@@ -36,6 +36,6 @@
 <p align="center">
 	<img src="./WechatIMG10.jpeg" alt="Sample"  width="360" height="494">
 	<p align="center">
-		<em>微信收款码</em>
+		<em>小小心意💕赞助一下</em>
 	</p>
 </p>
