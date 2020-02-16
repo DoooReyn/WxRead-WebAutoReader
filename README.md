@@ -33,4 +33,9 @@
 本仓库仅提供代码，一切责任由使用者自行承担。
 
 
-![微信收款码](./WechatIMG10.jpeg)
+<p align="center">
+	<img src="./WechatIMG10.jpeg" alt="Sample"  width="360" height="494">
+	<p align="center">
+		<em>微信收款码</em>
+	</p>
+</p>
