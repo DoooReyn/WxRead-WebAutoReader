@@ -2,6 +2,12 @@
 
 使用 **[微读自动阅读器](<[https://github.com/DoooReyn/WxRead-WebAutoReader](https://github.com/DoooReyn/WxRead-WebAutoReader)>)**，帮助你解放生产力 _（双手）_ ，该干啥干啥去，书币照样拿！
 
+## 更新
+
+- **2020.02.17**
+  - 新增标题栏提示，更新章节进度和已读完状态
+  - 新增浏览器通知 _（需要用户授权）_，读完后发送通知给用户，比 alert 更好用 _（由于部分浏览器不支持通知，因此保留 alert）_
+
 ## 做微读自动阅读器的原因
 
 闲的蛋疼！
