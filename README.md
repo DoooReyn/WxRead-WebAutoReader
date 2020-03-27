@@ -18,6 +18,9 @@
 - **2020.02.22**
   - 修复大概率出现一直刷同一章节的问题: HTMLAnchorElement.click() 有概率失效，因此放弃此方法，使用键盘事件来切换下一章。
 
+- **2020.03.27**
+  - 修复在首页使用无效的问题，感谢**Lovely-Wildpointer**提的[issue](https://github.com/DoooReyn/WxRead-WebAutoReader/issues/2)
+
 ## 做微读自动阅读器的原因
 
 闲的蛋疼！
