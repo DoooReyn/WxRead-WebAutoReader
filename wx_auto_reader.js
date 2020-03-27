@@ -102,8 +102,13 @@
     //重新获取页面元素
     var title, chapter, app, c_h, s_h, l_h, page_pos, scroll_enabled;
     function fetchPageElement() {
-      title = _getElement(_title_element_name).innerText;
-      chapter = _getElement(_chapter_element_name).innerText;
+      try {
+        title = _getElement(_title_element_name).innerText;
+        chapter = _getElement(_chapter_element_name).innerText;
+      } catch (err) {
+        title = "微读自动阅读器";
+        chapter = "首页";
+      }
       app = document.getElementById(_app_element_name);
       c_h = app.clientHeight;
       s_h = app.scrollHeight;
