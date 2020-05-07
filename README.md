@@ -21,6 +21,9 @@
 - **2020.03.27**
   - 修复在首页使用无效的问题，感谢**Lovely-Wildpointer**提的[issue](https://github.com/DoooReyn/WxRead-WebAutoReader/issues/2)
 
+- **2020.05.07**
+  - 修复官方启用 **CPS** 规则后 **WebWorker** 无法使用的问题。
+
 ## 做微读自动阅读器的原因
 
 闲的蛋疼！
