@@ -73,6 +73,12 @@
 
 ## 使用说明
 
+**方法一：**
+
+拖动链接到书签栏，[点击此处获取](https://doooreyn.github.io/wxreader.html)。
+
+**方法二：**
+
 1. 打开浏览器 _（目前仅在 Chrome 下测试 OK，其他浏览器还没来得及测试，移动平台无效）_；
 2. 复制 [wx_auto_reader.min.js](./wx_auto_reader.min.js) 内容；
 3. 在浏览器新建一份书签，名称任意，如：`微信读书自动阅读器`，网址改为`javascript:步骤2的复制内容`；
