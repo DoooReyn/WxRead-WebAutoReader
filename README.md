@@ -90,7 +90,7 @@
 本仓库仅提供代码，一切责任由使用者自行承担。
 
 <p align="center">
-	<img src="./WechatIMG10.jpeg" alt="Sample"  width="360" height="494">
+	<img src="https://wu57.cn/images/wechatpay.png" alt="Sample"  width="360" height="494">
 	<p align="center">
 		<em>小小心意💕赞助一下</em>
 	</p>
