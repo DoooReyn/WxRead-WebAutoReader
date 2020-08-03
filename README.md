@@ -24,6 +24,19 @@
 - **2020.05.07**
   - 修复官方启用 **CPS** 规则后 **WebWorker** 无法使用的问题。
 
+- **2020.08.04**
+  - 新增Windows客户端，新版本使用Electron技术对微读阅读器进行了全方位的升级，现在你可以使用微读做到：
+    - 控制自动阅读开关，随时暂停和继续
+    - 自动阅读的过程中，做笔记时自动暂停，做完笔记后自动恢复
+    - 自由切换日间和夜间模式
+    - 下次打开继续上次阅读页面
+    - 读完一本书将收到系统通知
+    - 全面使用快捷键，提升阅读体验
+  
+  欢迎体验，也希望你能给我一些反馈和建议，下面是全新版本的下载地址：
+  - [Windows32位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader Setup 1.0.0-win32.exe)
+  - [Windows64位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader Setup 1.0.0-win64.exe)
+
 ## 做微读自动阅读器的原因
 
 闲的蛋疼！
