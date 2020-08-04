@@ -33,9 +33,13 @@
     - 读完一本书将收到系统通知
     - 全面使用快捷键，提升阅读体验
   
-  欢迎体验，也希望你能给我一些反馈和建议，下面是全新版本的下载地址：
+  > 欢迎体验，也希望你能给我一些反馈和建议，下面是全新版本的下载地址：
   - [Windows32位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader-Setup1.0.0-win32.exe)
   - [Windows64位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader-Setup1.0.0-win64.exe)
+
+- **2020.08.05**
+  - 新增**导出读书笔记**功能，暂时仅支持导出markdown格式，后续有需要再扩充其他模式
+  - 待办：为软件添加自动更新功能，这样有新版本发布的话大家就可以在本地完成更新，不需要回到这里下载新版本了
 
 ## 做微读自动阅读器的原因
 
