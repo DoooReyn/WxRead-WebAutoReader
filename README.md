@@ -34,8 +34,8 @@
     - 全面使用快捷键，提升阅读体验
   
   欢迎体验，也希望你能给我一些反馈和建议，下面是全新版本的下载地址：
-  - [Windows32位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader Setup 1.0.0-win32.exe)
-  - [Windows64位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader Setup 1.0.0-win64.exe)
+  - [Windows32位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader-Setup1.0.0-win32.exe)
+  - [Windows64位版本](https://github.com/DoooReyn/WxRead-WebAutoReader/wereader-Setup1.0.0-win64.exe)
 
 ## 做微读自动阅读器的原因
 
