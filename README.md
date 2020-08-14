@@ -6,7 +6,7 @@
 
   - [Windows 32位 百度云](https://pan.baidu.com/s/1qdPRxoG9EDHZZJEWZFaZvA) 提取码: `df98`
   - [Windows 64位 百度云](https://pan.baidu.com/s/1tYYqHSQu3Dv1peXu4co3ow) 提取码: `2khr`
-  - [PC版Github仓库](https://github.com/DoooReyn/WxRead-PC-AutoReader)
+  - [PC版Github仓库，欢迎关注](https://github.com/DoooReyn/WxRead-PC-AutoReader)
 
 ## 网页版
 
