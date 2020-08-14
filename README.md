@@ -4,8 +4,8 @@
 
 ## PC版
 
-  - [Windows32位下载地址](https://wu57.cn/files/win32/wereader%20Setup%201.3.0.exe)
-  - [Windows64位下载地址](https://wu57.cn/files/win64/wereader%20Setup%201.3.0.exe)
+  - [Windows 32位 百度云](https://pan.baidu.com/s/1qdPRxoG9EDHZZJEWZFaZvA) 提取码: `df98`
+  - [Windows 64位 百度云](https://pan.baidu.com/s/1tYYqHSQu3Dv1peXu4co3ow) 提取码: `2khr`
 
 ## 网页版
 
