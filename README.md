@@ -2,7 +2,7 @@
 
 使用 **[微读自动阅读器](https://github.com/DoooReyn/WxRead-WebAutoReader)**，帮助你解放生产力 _（双手）_ ，该干啥干啥去，书币照样拿！
 
-## PC版
+## PC版 *（建议使用）*
 
   - [Windows 32位 百度云](https://pan.baidu.com/s/1qdPRxoG9EDHZZJEWZFaZvA) 提取码: `df98`
   - [Windows 64位 百度云](https://pan.baidu.com/s/1tYYqHSQu3Dv1peXu4co3ow) 提取码: `2khr`
