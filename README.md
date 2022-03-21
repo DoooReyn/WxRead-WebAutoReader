@@ -114,4 +114,4 @@
 
 本仓库仅提供代码，一切责任由使用者自行承担。
 
-![Buy me a cup of coffee](https://wu57.cn/images/wechatpay.png)
+![Buy me a cup of coffee](./WechatIMG10_25%25.jpeg)
