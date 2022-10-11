@@ -2,6 +2,12 @@
 
 使用 **[微读自动阅读器](https://github.com/DoooReyn/WxRead-WebAutoReader)**，帮助你解放生产力 _（双手）_ ，该干啥干啥去，书币照样拿！
 
+### 新版本发布啦！！！欢迎大家尝鲜！！！
+
+- 新版使用 PyQt5 作为基础框架，且代码完全开源，大家可以戳戳小手指点下关注 👉 [WxReader2.0](https://github.com/DoooReyn/WxReader)
+- 另外因为设备限制，只打包了 Windows 版本，原则上是可以跨平台的，有条件的可以试试
+- [新版本下载包传送门](https://github.com/DoooReyn/WxReader/releases)
+
 ### 新版本预告（桌面版）
 
 距离上次更新一年半载了，期间收到了许多反馈，留言和催更。
